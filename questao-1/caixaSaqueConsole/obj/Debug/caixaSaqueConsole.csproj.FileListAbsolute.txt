@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\bin\Debug\caixaSaqueConsole.exe.config
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\bin\Debug\caixaSaqueConsole.exe
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\bin\Debug\caixaSaqueConsole.pdb
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\obj\Debug\caixaSaqueConsole.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\obj\Debug\caixaSaqueConsole.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\obj\Debug\caixaSaqueConsole.exe
+C:\Users\angel\source\repos\caixaSaqueConsole\caixaSaqueConsole\obj\Debug\caixaSaqueConsole.pdb
